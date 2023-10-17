@@ -1,0 +1,15 @@
+{
+  "name": "npf-backend-pfv-server",
+  "version": "1.0.0",
+  "description": "Temprary backend server for pfv tab",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
